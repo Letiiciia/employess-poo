@@ -7,9 +7,9 @@
 
 ### 🛠 Tecnologias e Dependências
 * [Git](#Git)
-* [Java11](#Java11)
+* [Java](#Java)
 * [Maven](#Maven)
-* [Springboot2.5.13](#Springboot2.5.13)
+* [Springboot](#Springboot)
 * [JPA](#JPA)
 * [Lombok](#Lombok)
 * [BancoH2](#BancoH2)
