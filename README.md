@@ -2,7 +2,6 @@
 <p align="center">Projeto de cadastro de informações pessoais de funcionários</p>
 
 ## Implementações
-- [x] Criação de cadastro de pessoa
 - [x] Criar um registro de funcionário
 - [x] Listar todos os registros
 
