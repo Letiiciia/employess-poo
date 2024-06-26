@@ -16,11 +16,10 @@
 
 
 ### Como Utilizar?
-```bash
 - Build e Rode o projeto localmente
 - Para criar um registro 
 $ Accesse http://localhost:8080/information-create
-```bash
+ - Este é o payload para enviar na requisição
 {
   "name": "Letícia Lima",
   "healthProblems": "headache",
@@ -31,9 +30,9 @@ $ Accesse http://localhost:8080/information-create
 
 - Para listar os registro 
 $ Accesse http://localhost:8080/information
-```bash
+- Este é o objeto criado no banco
 {
-	"id": 1,
+  "id": 1,
   "name": "Letícia Lima",
   "healthProblems": "headache",
   "allergies": "itch",
