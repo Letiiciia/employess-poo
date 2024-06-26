@@ -16,6 +16,7 @@
 
 
 ### Como Utilizar?
+```
 - Build e Rode o projeto localmente
 - Para criar um registro 
 $ Accesse http://localhost:8080/information-create
@@ -39,5 +40,6 @@ $ Accesse http://localhost:8080/information
   "email": "leticialimaferreira2@gmail.com",
   "cellPhone": "6199613-2589"
 }
+```
 
 
